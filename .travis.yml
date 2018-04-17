@@ -1,4 +1,4 @@
 language: c
 install: make dep
-target: ./geometry_test
+target: make test
 sudo: required
